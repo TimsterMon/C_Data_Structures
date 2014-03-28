@@ -10,5 +10,5 @@ Employee.c - Employee class
 
 EmployeeList.c - Employee storage class (structure that holds the employees)
 
-employee.h - Header
+Employee.h - Header
 
